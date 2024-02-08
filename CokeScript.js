@@ -1,4 +1,4 @@
-let ingredientCosts = { cocoa: 0.00, acid: 0.00, water: 500.00, soda: 500.00, actionFigure: 10000.00 };
+let ingredientCosts = { cocoa: 0.00, acid: 0.00, water: 4.00, soda: 0.00, actionFigure: 10000.00 };
 let grandTotalCost = 0;
 
 document.addEventListener('DOMContentLoaded', () => {
